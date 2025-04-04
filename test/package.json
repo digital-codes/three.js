@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "failonlyreporter": "^1.0.0",
-    "jimp": "^0.16.0",
+    "jimp": "^1.6.0",
     "pixelmatch": "^5.3.0",
     "puppeteer": "^19.4.0",
     "qunit": "^2.19.1",
