@@ -150,7 +150,7 @@
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.26.0",
     "rollup": "^3.8.1",
-    "rollup-plugin-filesize": "^9.1.2",
+    "rollup-plugin-filesize": "^10.0.0",
     "rollup-plugin-visualizer": "^5.8.3",
     "servez": "^1.14.1"
   },
